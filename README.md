@@ -1,5 +1,5 @@
 This application use the example of http://flask.pocoo.org/ .
-	*******************************************************
+	**************************************************************************************************************************************************************************************
 	1. 创建应用的结构目录
 	例：
 	/flaskr
@@ -7,7 +7,7 @@ This application use the example of http://flask.pocoo.org/ .
 			/static
 			/templates
 	这个应用将会作为python的package安装
-	static文件夹中用来存储渲染胶本如CSS、javascript脚本
+	static文件夹中用来存储渲染脚本如CSS、javascript脚本
 	temlates文件夹用来存储html格式的模板
 	2. 创建数据库模式
 	这一步用来创建数据库模式，在flaskr/flaskr文件夹下创建名为schema.sql的文件，并写入以下内容：
